@@ -1,4 +1,4 @@
-import { Item, GildedRose } from '@/gilded-rose';
+import { AppModule } from '@/app.module';
 
 describe('Gilded Rose', () => {
   it('should foo', () => {

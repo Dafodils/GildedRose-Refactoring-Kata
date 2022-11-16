@@ -27,8 +27,8 @@ diff_program:meld
 #executable:${TEXTTEST_HOME}/perl/texttest_fixture.pl
 #interpreter:perl
 
-# Settings for the TypeScript version
-#executable:${TEXTTEST_HOME}/TypeScript/test/golden-master-text-test.js
-#interpreter:node
+Settings for the TypeScript version
+executable:${TEXTTEST_HOME}/TypeScript/test/golden-master-text-test.js
+interpreter:node
 
 filename_convention_scheme:standard
